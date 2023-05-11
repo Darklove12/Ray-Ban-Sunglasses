@@ -7,3 +7,10 @@ import MultiSell from '../components/MultiSell'
 import View from '../components/View'
 
 
+const Home = () => {
+  return (
+   
+  )
+}
+
+export default Home
