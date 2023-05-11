@@ -6,6 +6,14 @@ import './Login.css'
 const Login = () => {
   const nav = useNavigate();
 
+  const [input, setInput] = useState //  check if name is exist to let login
+    ({
+      email: "",
+      password: ""
+    })
+
+
+ 
   
 }
 
