@@ -12,8 +12,10 @@ const Login = () => {
       password: ""
     })
 
-
-    const handleLogin = (e) =>{}
+    const handleLogin = (e) =>{
+      e.preventDefault();
+    }
+     
 }
 
 export default Login;
