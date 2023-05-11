@@ -1,0 +1,56 @@
+.windon-container1{
+    position: absolute;
+    display: grid;
+    display: flex;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 5rem;
+    gap: 13px;
+    margin-left: -2rem;
+    background-color: rgb(245, 5, 5);
+}
+.windons{
+  width: 23.4rem;
+  margin-top: -1rem;
+ 
+}
+
+.tit{
+  margin-left: 5rem;
+  margin-top: -4.1rem;
+
+}
+.tex{
+  margin-left: 50px;
+  color: red;
+  margin-top: -4rem;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#btns {
+  position: absolute;
+  margin-left: 8rem;
+  width: 7rem;
+  padding-top: 4px;
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+  height: 3rem;
+  margin-top: 1rem;
+  background-color: red;
+  color: white;
+}
+
+.view1{
+  position: absolute;
+  left: 46rem;
+  width: 9rem;
+  margin-top: -2rem;
+  font-weight: bold;
+  border-radius: 4rem;
+}
+
+.view1:hover{
+  background-color: darkgrey;
+  color: red;
+}

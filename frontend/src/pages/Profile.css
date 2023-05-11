@@ -1,0 +1,119 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+
+#btn{
+    margin-left: 3rem;
+    margin-top: 2rem;
+    background-color: red;
+    width: 6rem;
+    color: white;
+   
+}
+.offcanvas.show {
+    width: 35rem;
+}
+
+
+.head {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 2.65) 1px 2px 2px 1px;
+    background-color: rgb(255, 8, 8);
+    width: 4.2rem;
+    height: 5rem;
+    margin-left: 9rem;
+    margin-top: -6.8rem;
+    padding-top: 8px;
+    font-size: 2.8rem;
+    padding-left: 1.4rem;
+    border-top-left-radius: 3rem;
+    border-bottom-left-radius: 3rem;
+    text-decoration: underline;
+}
+
+u {
+    color: white;
+}
+
+form {
+    margin-left: 5.3rem;
+    width: 20rem;
+    font-weight: bolder;
+}
+
+#name,
+#email {
+    margin-left: 15px;
+    border-radius: 15px;
+    width: 18rem;
+    color: red;
+    text-align: center;
+}
+
+.bi-person-circle {
+    margin-top: 155px;
+    font-size: 5.4rem;
+    margin-left: -245px;
+    color: rgb(72, 70, 70);
+}
+
+.btn-1 {
+    border-radius: 2rem;
+    width: 6rem;
+    margin-top: 2rem;
+    margin-left: .8rem;
+}
+
+.account {
+    margin-top: 1rem;
+    
+}
+
+.btn-1:hover {
+    background-color: red;
+    color: white;
+}
+
+#open {
+    padding-left: .4rem;
+    color: rgb(251, 3, 3);
+}
+
+.image-five {
+   height: 150rem;
+}
+
+.words{
+    position: absolute;
+    margin-top: -24.7rem;
+    margin-left: 1rem;
+    background-color: red;
+    color: white;
+    width: 45rem;
+    font-size: 1.4rem;
+    padding-left: 1rem;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 2.65) 1px 2px 2px 1px;
+}
+.image-first{
+    position: absolute;
+    width: 25rem;
+    height: 25rem;
+    margin-top: 90rem;
+    margin-left: 6rem;
+}
+.image-second{
+    position: absolute;
+    width: 25rem;
+    height: 25rem;
+    margin-top: 90rem;
+    margin-left: 33rem;
+}
+.image-three{
+    position: absolute;
+    width: 25rem;
+    height: 25rem;
+    margin-top: 90rem;
+    margin-left: 60rem;
+
+}
+
+.image-first , .image-second, .image-three{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 2.65) 1px 2px 2px 1px;
+}

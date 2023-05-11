@@ -1,0 +1,21 @@
+.buton {
+    margin-left: 6.8rem;
+    margin-top: 1rem;
+    background-color: red;
+    width: 6rem;
+    color: white;
+    border-radius: 3rem;
+}
+label{
+    margin-left: 6px;
+}
+.card-body{
+   margin-left: 30.9rem;
+}
+.text-uppercase{
+    background-color: red;
+    width: 25rem;
+    padding-left: 2rem;
+    margin-left: 3.3rem;
+    color: white;
+}
