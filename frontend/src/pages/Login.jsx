@@ -32,7 +32,19 @@ const Login = () => {
   
     return (
       <div>
-         
+          <div className="container ">
+              <div className="row">
+                <div className="column">
+                  <div className="card">
+                    <div className="card-body">
+                      <h2 className="text-uppercase">Login</h2>
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+        login
       </div>
     )
      
