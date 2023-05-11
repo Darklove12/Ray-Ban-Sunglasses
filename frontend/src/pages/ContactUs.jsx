@@ -9,7 +9,10 @@ const ContactUs = () => {
  <Header/>
 
  <form>
-  
+ <div className="form-group">
+   
+  </div>
+  <button type="submit" className="btn btn-primary">Submit</button>
 </form>
 
       </div>
