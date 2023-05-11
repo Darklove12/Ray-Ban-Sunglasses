@@ -15,7 +15,7 @@ const Home = () => {
       <MultiCard/>
       <MultiSell/>
       <View/>
-      
+      <Ray/>
       
     </div>
   )
