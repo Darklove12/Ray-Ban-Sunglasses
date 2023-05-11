@@ -24,6 +24,7 @@ const AboutUs = () => {
   </p>
   <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ray-Ban_logo.svg/1920px-Ray-Ban_logo.svg.png" className='RBpic' />
+<img src="https://images.unsplash.com/photo-1587079768208-5573a9308ae0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHJheSUyMGJhbnxlbnwwfHwwfHw%3D&w=1000&q=80" className="blackglasses" />
 </div>
 
 <footer class="foot">
