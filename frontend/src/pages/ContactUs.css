@@ -17,3 +17,7 @@
  .btn:hover{
     background-color: blue;
 }
+#message{
+    height: 5rem;
+    padding-top: -13px;
+    }
