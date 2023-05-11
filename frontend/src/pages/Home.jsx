@@ -10,6 +10,7 @@ import View from '../components/View'
 const Home = () => {
   return (
     <div>
+
       <Header />
       <Slider/>
       <MultiCard/>
