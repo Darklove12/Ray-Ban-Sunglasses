@@ -4,6 +4,13 @@ import '../pages/ContactUs.css'
 
 const ContactUs = () => {
  
+  return (
+    <div>
+ <Header/>
+
+
+      </div>
+  )
 }
 
 
