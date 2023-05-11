@@ -14,6 +14,9 @@ const Login = () => {
 
     const handleLogin = (e) =>{
       e.preventDefault();
+
+      const loggeduser = JSON.parse(localStorage.getItem("user"));
+  
     }
      
 }
