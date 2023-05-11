@@ -28,9 +28,7 @@ const AboutUs = () => {
 </div>
 
 <footer class="foot">
- <div className=''>
-  
- </div>
+
 </footer>
   
     </div>
