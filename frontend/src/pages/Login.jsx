@@ -59,9 +59,7 @@ const Login = () => {
                   </div>
 
                   <p className="text-center">Don't have an account?
-                    <Link to="/login"
-                      className="text-body"><i>Register here</i>
-                    </Link>
+                    
                   </p>
 
                 </form>
