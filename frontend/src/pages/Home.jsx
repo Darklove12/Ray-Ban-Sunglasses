@@ -1,4 +1,2 @@
 import React from 'react'
-
-
-export default Home
+import Slider from '../components/Slider'
