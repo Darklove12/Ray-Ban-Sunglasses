@@ -13,10 +13,7 @@
 }
 #exampleCheck1{
     margin-left: 1rem;
-    }
-    .btn{
-    margin-left: 39.5rem;
-    margin-top: 2rem;
-    background-color: red;
-    border-radius: 4rem;
-    }
+ }
+ .btn:hover{
+    background-color: blue;
+}
