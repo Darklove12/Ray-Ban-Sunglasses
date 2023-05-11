@@ -13,6 +13,7 @@ const Home = () => {
       <Header />
       <Slider/>
       <MultiCard/>
+      <MultiSell/>
       
       
     </div>
