@@ -17,7 +17,20 @@ const Login = () => {
 
       const loggeduser = JSON.parse(localStorage.getItem("user"));
   
-    }
+      if (input.email === loggeduser.email && // check if user is available in Local Storage
+        input.password ===  loggeduser.password )
+      {
+        localStorage.setItem("loggedin", true) // to show your name in Page
+  
+        nav('/home') // navigate to homepage after login successfully
+      }
+      else
+      {
+        alert('No Found')
+      }
+    };
+  
+    
      
 }
 
