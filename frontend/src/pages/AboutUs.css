@@ -24,3 +24,7 @@
     margin-top: -67.1rem;
     margin-left: 15rem;
 }
+.carousel-control-prev-icon, .carousel-control-next-icon
+{
+    visibility:hidden;
+}
