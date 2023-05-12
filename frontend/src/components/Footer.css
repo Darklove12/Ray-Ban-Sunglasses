@@ -40,3 +40,10 @@ h6{
     cursor: pointer;
     box-shadow: rgba(0, 0, 0, 1.24) 0px 3px 2px;
 }
+.network{
+    color: red;
+    font-size: 2rem;
+    margin-left: -4rem;
+    font-family: 'Caveat', cursive;
+    margin-top: 3rem;
+}
