@@ -21,3 +21,6 @@
 .text-reset{
     font-weight: bold;
 }
+.me-3{
+    margin-left: -1rem;
+}
