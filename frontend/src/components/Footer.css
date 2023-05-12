@@ -33,3 +33,10 @@ h6{
     background-color: red;
     text-align: center;
 }
+.academy{
+    background-color: red;
+    margin-left: 13px;
+    color: white;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 1.24) 0px 3px 2px;
+}
