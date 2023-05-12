@@ -3,3 +3,8 @@ import { MDBFooter, MDBContainer, MDBRow, MDBCol, MDBIcon } from 'mdb-react-ui-k
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './Footer.css'
 
+function Footer() {
+ 
+}
+
+export default Footer
