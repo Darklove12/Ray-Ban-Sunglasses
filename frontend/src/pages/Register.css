@@ -10,7 +10,9 @@ label{
     margin-left: 6px;
 }
 .card-body{
+    width: 34rem;
    margin-left: 30.9rem;
+   background-color: rgb(234, 233, 233);
 }
 .text-uppercase{
     background-color: red;
