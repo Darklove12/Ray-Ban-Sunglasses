@@ -3,3 +3,13 @@
   grid-template-columns: auto auto auto auto;
   grid-gap: 20px;
 }
+.card-container > div {
+  text-align: center;
+  padding: 8px;
+  margin-left: -2rem;
+  width: 33.4rem;
+  font-size: 30px;
+  color: rgb(234, 10, 10);
+  font-weight: bolder;
+}
+
