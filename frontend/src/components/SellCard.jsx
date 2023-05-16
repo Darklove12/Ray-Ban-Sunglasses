@@ -4,7 +4,7 @@ import './Sell.css'
 function Sell(props) {
   return (
     <>
-      <div class="cards-image" >
+      <div class="card-image" >
         <img src={props.image} className="cards-image" alt="..." />
       </div>
     </>

@@ -1,4 +1,4 @@
-#pr{
+.pro{
     color: black;
     font-size: 1.1rem;
     font-weight: bold;
@@ -6,6 +6,7 @@
     margin-top: 1.3rem;
     background-color: red;
     width: 15rem;
+    margin-left: -0rem;
 }
 
 .RBpic{

@@ -1,8 +1,8 @@
 .footer-container{
-    margin-left: 10rem;
+    margin-left: 4.8rem;
 }
 .med-social{
-    margin-left: 5rem;
+    margin-left: 8rem;
     font-weight: bold;
     color: rgb(230, 5, 5);
     font-size: 20px;
@@ -20,6 +20,8 @@
 }
 .text-reset{
     font-weight: bold;
+    width: 4rem;
+    margin-left: -3.3rem;
 }
 .me-3{
     margin-left: -1rem;
@@ -27,15 +29,18 @@
 .text-muted{
     margin-top: 3rem;
 }
-
+p{
+    margin-left: 13rem;
+}
 h6{
     color: rgb(252, 251, 251);
     background-color: red;
     text-align: center;
 }
 .academy{
+    font-size: 1rem;
     background-color: red;
-    margin-left: 13px;
+    margin-left: -11px;
     color: white;
     cursor: pointer;
     box-shadow: rgba(0, 0, 0, 1.24) 0px 3px 2px;
@@ -54,4 +59,14 @@ h6{
 }
 .net:hover{
     color: white;
+}
+.textw-uppercase{
+    width: 26rem;
+    margin-left: 27.3rem;
+}
+.me{
+    margin-left: 22rem;
+}
+.textt{
+    margin-left: 10rem;
 }

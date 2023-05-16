@@ -6,7 +6,7 @@ const AboutUs = () => {
   return (
     <div>
       <Header/>
-      <p id="pr">
+      <p className="pro">
   Ray-Ban has been a major target. It has been proven time and time again that
   fake websites selling  knockoff goods are linked to Ray-Ban advertisements featuring
   absurdly low costs. <br /> According to studies, Facebook users are directed to these websites

@@ -25,9 +25,9 @@ const Register = () => {
           <div className="cent-container">
             <div className="row">
               <div className="column">
-                <div className="card">
-                  <div className="card-body">
-                    <h2 className="text-uppercase">Create an account</h2> 
+                <div className="carde">
+                  <div className="carde-body">
+                    <h2 className="textz-uppercase">Create an account</h2> 
                 
                     <form onSubmit={handleSubmit} // it works well with a button
                     >
@@ -75,9 +75,9 @@ const Register = () => {
                         <button type='submit' className="buton">Register</button>
                       </div>
 
-                      <p className="text-center">Have already an account?
+                      <p className="texts-center">Have already an account?
                         <Link to="/Profile" className="text-body">
-                          <p>Login here</p>
+                          <p className='log'>Login here</p>
                         </Link>
                       </p>
 

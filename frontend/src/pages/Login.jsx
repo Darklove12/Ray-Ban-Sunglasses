@@ -58,7 +58,7 @@ const Login = () => {
                     <button type="submit" className="btn btn-success btn-block btn-lg gradient-custom-4 text-body">Login</button>
                   </div>
 
-                  <p className="text-center">Don't have an account?
+                  <p className="account">Don't have an account?
                   <Link to="/login"
                       className="text-body"><i>Register here</i>
                     </Link>

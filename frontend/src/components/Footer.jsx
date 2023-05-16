@@ -37,29 +37,29 @@ function Footer() {
     <MDBContainer className='text-center text-md-start mt-5'>
       <MDBRow className='mt-3'>
         <MDBCol className='auto'>
-          <h6 className='text-uppercase fw-bold'>
+          <h6 className='textt-uppercase'>
             <MDBIcon className='me-3' />
             SHOP BY
           </h6>
-          <p>
+          <p className='textt'>
           All Sunglasses
           </p>
-          <p>
+          <p className='textt'>
           All Eyeglasses
           </p>
-          <p>
+          <p className='textt'>
           Customize
           </p>
-          <p>
+          <p className='textt'>
           Sunglasses
           </p>
-          <p>
+          <p className='textt'>
           Eyeglasses
           </p>
-          <p>
+          <p className='textt'>
           Lenses
           </p>
-          <p>
+          <p className='textt'>
           Gift Card
           </p>
         </MDBCol>
@@ -129,7 +129,7 @@ function Footer() {
         </MDBCol>
 
         <MDBCol className='auto'>
-          <h6 className='text-uppercase'>Contact</h6>
+          <h6 className='textw-uppercase'>Contact Us</h6>
           <p>
             <MDBIcon  className='me' />
             Johannesburg, Gauteng
@@ -144,9 +144,8 @@ function Footer() {
   </section>
 
   <div className='text-center'>
-    © 2023 Copyright 
     <h2 className="academy">
-      The Digital Acadamy
+    © 2023 Copyright, Inc. The Digital Acadamy
     </h2>
   </div>
 </MDBFooter>
