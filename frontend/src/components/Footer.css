@@ -7,4 +7,6 @@
     color: rgb(230, 5, 5);
     font-size: 20px;
 }
-
+.med-social:hover{
+    color: blue;
+}
