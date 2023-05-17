@@ -51,4 +51,16 @@ img{
   font-weight: bold;
   border-radius: 3rem;
   }
-  
+   
+  .video1{
+    position: absolute;
+    font-size: 15px;
+    height: 1.8rem;
+    width: 15rem;
+    bottom: -96rem;
+    font-weight: bold;
+    border-radius: 3rem;
+    margin-left: 5rem;
+    
+    }
+   
