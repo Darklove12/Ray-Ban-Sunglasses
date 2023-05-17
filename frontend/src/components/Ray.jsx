@@ -4,3 +4,4 @@ import './Ray.css'
 import image from '../assets/rb.jpg'
 import Footer from './Footer'
 
+const Ray = () => 
