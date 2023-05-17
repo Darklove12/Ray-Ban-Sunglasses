@@ -16,3 +16,9 @@
 .text-uppercase{
     font-weight: bolder;
 }
+.text-reset{
+    font-weight: bold;
+    width: 4rem;
+    margin-left: -3.3rem;
+}
+
