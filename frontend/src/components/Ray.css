@@ -43,3 +43,12 @@ img{
   height: 34rem;
   margin-top: 30rem;
 }
+.videos{
+  position: relative;
+  left: 9px;
+  width: 99%;
+  margin-top: 0.2rem;
+  font-weight: bold;
+  border-radius: 3rem;
+  }
+  
