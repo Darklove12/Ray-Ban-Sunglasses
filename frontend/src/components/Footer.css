@@ -51,4 +51,9 @@ h6{
     font-family: 'Caveat', cursive;
     margin-top: 3rem;
 }
+.net{
+    background-color: red;
+    color: white;
+    box-shadow: 12px 12px 2px 1px rgba(76, 76, 83, 0.7);
+}
 
