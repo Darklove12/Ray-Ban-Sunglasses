@@ -56,4 +56,6 @@ h6{
     color: white;
     box-shadow: 12px 12px 2px 1px rgba(76, 76, 83, 0.7);
 }
-
+.net:hover{
+    color: white;
+}
