@@ -47,4 +47,8 @@
           border-radius: 4rem;
           }
           
-        
+          .view1:hover{
+            background-color: darkgrey;
+            color: red;
+            }
+            
