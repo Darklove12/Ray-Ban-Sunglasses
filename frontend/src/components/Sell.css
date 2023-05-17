@@ -27,3 +27,7 @@ margin-left: -1rem;
   gap: 3px;
   width: 7px;
 }
+.grid-container > div {
+  text-align: center;
+  font-size: 2px;
+}
