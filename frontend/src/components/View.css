@@ -38,4 +38,13 @@
         color: white;
         }
         
+        .view1{
+          position: absolute;
+          left: 40rem;
+          width: 9rem;
+          margin-top: -6rem;
+          font-weight: bold;
+          border-radius: 4rem;
+          }
+          
         
