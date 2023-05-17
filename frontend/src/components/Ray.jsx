@@ -4,4 +4,11 @@ import './Ray.css'
 import image from '../assets/rb.jpg'
 import Footer from './Footer'
 
-const Ray = () => 
+const Ray = () => {
+  const [toggle, setToggle] = useState(false)
+
+
+ 
+}
+
+export default Ray;
