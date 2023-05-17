@@ -9,3 +9,13 @@
     margin-left: -0rem;
 }
 
+.RBpic{
+    position: absolute;
+    width: 20rem;
+    height: 40vh;
+    margin-top: -55rem;
+    margin-left: 20rem;
+    box-shadow: rgba(60, 64, 67, 0.6) 0px 2px 7px 4px;
+    border-radius: 50%;
+   
+}
