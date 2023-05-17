@@ -24,3 +24,18 @@
       font-weight: bold;
       }
       
+      #btns {
+        position: absolute;
+        margin-left: 8rem;
+        width: 7rem;
+        padding-top: 4px;
+        font-weight: bold;
+        font-size: 12px;
+        text-align: center;
+        height: 3rem;
+        margin-top: 1rem;
+        background-color: red;
+        color: white;
+        }
+        
+        
