@@ -6,3 +6,8 @@ import MultiCard from '../components/MultiCard'
 import MultiSell from '../components/MultiSell'
 import View from '../components/View'
 
+const Home = () => {
+  
+}
+
+export default Home;
