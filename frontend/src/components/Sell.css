@@ -11,3 +11,19 @@ img:hover{
 margin-top: -6rem;
 margin-left: -1rem;
 }
+.card-text{
+  position: absolute;
+  margin-top: -3.6rem;
+  color: red;
+  margin-left: 0rem;
+  font-weight: bold;
+  font-size: 18px;
+  padding-left: 1rem;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 3px;
+  width: 7px;
+}
