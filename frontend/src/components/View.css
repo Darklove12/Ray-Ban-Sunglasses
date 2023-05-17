@@ -1,54 +1,7 @@
 .windon-container1{
-    position: absolute;
-    display: flex;
-    grid-template-columns: auto auto auto auto;
-    margin-top: 7rem;
-    margin-left: 4rem;
-}
-.windons{
-  width: 20.2rem;
-  margin-top: -1rem;
-  margin-left: 1.3rem;
-  height: 15rem;
-}
-
-.tit{
-  margin-left: 5rem;
-  margin-top: -4.1rem;
-
-}
-.tex{
-  margin-left: 50px;
-  color: red;
-  margin-top: -3.1rem;
-  font-size: 18px;
-  font-weight: bold;
-}
-
-#btns {
   position: absolute;
-  margin-left: 8rem;
-  width: 7rem;
-  padding-top: 4px;
-  font-weight: bold;
-  font-size: 12px;
-  text-align: center;
-  height: 3rem;
-  margin-top: 1rem;
-  background-color: red;
-  color: white;
-}
-
-.view1{
-  position: absolute;
-  left: 40rem;
-  width: 9rem;
-  margin-top: -6rem;
-  font-weight: bold;
-  border-radius: 4rem;
-}
-
-.view1:hover{
-  background-color: darkgrey;
-  color: red;
+  display: flex;
+  grid-template-columns: auto auto auto auto;
+  margin-top: 7rem;
+  margin-left: 4rem;
 }
