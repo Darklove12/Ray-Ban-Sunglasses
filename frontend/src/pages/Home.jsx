@@ -7,7 +7,18 @@ import MultiSell from '../components/MultiSell'
 import View from '../components/View'
 
 const Home = () => {
-  
+  return (
+    <div>
+
+      <Header />
+      <Slider/>
+      <MultiCard/>
+      <MultiSell/>
+      <View/>
+      <Ray/>
+      
+    </div>
+  )
 }
 
 export default Home;
