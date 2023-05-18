@@ -61,6 +61,11 @@ form {
     margin-left: .8rem;
 }
 
+.btn-1:hover {
+    background-color: red;
+    color: white;
+}
+
 .account {
     margin-top: 1rem;
     margin-left: 1rem;
