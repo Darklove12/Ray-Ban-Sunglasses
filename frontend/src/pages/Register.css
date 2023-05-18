@@ -7,3 +7,11 @@ background-color: rgb(222, 222, 222);
     margin-left: -2.5rem;
 }
 
+.buton {
+    margin-left: 6.8rem;
+    margin-top: 1rem;
+    background-color: red;
+    width: 6rem;
+    color: white;
+    border-radius: 3rem;
+}
