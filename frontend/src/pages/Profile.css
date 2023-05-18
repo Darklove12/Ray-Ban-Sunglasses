@@ -32,3 +32,9 @@ u {
     color: white;
 }
 
+form {
+    margin-left: 5.3rem;
+    width: 20rem;
+    font-weight: bolder;
+}
+
