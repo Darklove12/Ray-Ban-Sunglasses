@@ -70,3 +70,7 @@ form {
     margin-top: 1rem;
     margin-left: 1rem;
 }
+#open {
+    padding-left: .4rem;
+    color: rgb(251, 3, 3);
+}
