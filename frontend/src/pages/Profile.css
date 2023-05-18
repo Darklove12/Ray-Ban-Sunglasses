@@ -38,3 +38,12 @@ form {
     font-weight: bolder;
 }
 
+#name,
+#email {
+    margin-left: 15px;
+    border-radius: 15px;
+    width: 18rem;
+    color: red;
+    text-align: center;
+}
+
