@@ -110,3 +110,6 @@ form {
     margin-top: 90rem;
     margin-left: 60rem;
 }
+.image-first , .image-second, .image-three{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 2.65) 1px 2px 2px 1px;
+}
