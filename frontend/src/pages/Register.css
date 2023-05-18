@@ -19,3 +19,11 @@ background-color: rgb(222, 222, 222);
 label{
     margin-left: 8px;
 }
+
+.textz-uppercase{
+    background-color: red;
+    width: 25rem;
+    padding-left: 5rem;
+    margin-left: 2.5rem;
+    color: white;
+}
