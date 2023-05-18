@@ -3,32 +3,3 @@
     margin-left: 33rem;
 background-color: rgb(222, 222, 222);
 }
-.carde-body{ 
-    margin-left: -2.5rem;
-}
-
-.buton {
-    margin-left: 6.8rem;
-    margin-top: 1rem;
-    background-color: red;
-    width: 6rem;
-    color: white;
-    border-radius: 3rem;
-}
-label{
-    margin-left: 8px;
-}
-.textz-uppercase{
-    background-color: red;
-    width: 25rem;
-    padding-left: 5rem;
-    margin-left: 2.5rem;
-    color: white;
-}
-.texts-center{
-    margin-left: 1rem;
-}
-.log{
-    margin-top: -1.6rem;
-    margin-left: 12rem;
-}
