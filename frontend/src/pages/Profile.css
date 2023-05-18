@@ -47,3 +47,10 @@ form {
     text-align: center;
 }
 
+.bi-person-circle {
+    margin-top: 155px;
+    font-size: 5.4rem;
+    margin-left: -245px;
+    color: rgb(72, 70, 70);
+}
+
