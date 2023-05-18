@@ -77,3 +77,15 @@ form {
 .image-five {
     height: 150rem;
  }
+
+ .words{
+    position: absolute;
+    margin-top: -24.7rem;
+    margin-left: 1rem;
+    background-color: red;
+    color: white;
+    width: 45rem;
+    font-size: 1.4rem;
+    padding-left: 1rem;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 2.65) 1px 2px 2px 1px;
+}
