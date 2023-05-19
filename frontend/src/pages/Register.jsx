@@ -64,13 +64,6 @@ const Register = () => {
                         <label className="form-label" htmlFor="form3">Repeat your password</label>
                       </div>
 
-                      <div className="check">
-                        <input className="check-input" type="checkbox" value="" id="form2" />
-                        <label className="check-label" htmlFor="form2">
-                          I agree all statements in <a href="#!" className="text-body"><i>Terms of service</i></a>
-                        </label>
-                      </div>
-
                       <div className="content-center">
                         <button type='submit' className="buton">Register</button>
                       </div>

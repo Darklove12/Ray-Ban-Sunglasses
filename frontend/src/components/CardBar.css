@@ -13,8 +13,12 @@
 .red-box{
   position: absolute;
   margin-left: 3.4rem;
-  color: rgb(234, 10, 10);
+  color: rgb(255, 255, 255);
+  background-color: red;
+  width: 4rem;
+  padding-left: 3px;
 }
+
 
 h1{
   font-size: 20px;
