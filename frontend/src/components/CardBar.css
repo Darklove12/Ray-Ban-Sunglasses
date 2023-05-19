@@ -3,6 +3,7 @@
   grid-template-columns: auto auto auto auto;
   grid-gap: 27rem;
   margin-left: 2.4rem;
+  margin-top: 1rem;
   
 }
 .card-container > div {
