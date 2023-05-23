@@ -18,9 +18,13 @@
     background-color: blue;
 }
 #message{
+    position: relative;
     height: 5rem;
     padding-top: -13px;
     }
     .btn-primary{
         margin-left: 32rem;
+    }
+    .form-control{
+        padding-top: 18px;
     }
