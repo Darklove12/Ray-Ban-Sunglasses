@@ -28,7 +28,7 @@ const Ray = () => {
       
       toggle && ( // 4th add {toggle }
         <>
-          <video className="videos" height="500" controls >
+          <video className="videos" height="600" autoPlay muted loop >
             <source src={video} type="video/mp4" />
           </video>
         </>
