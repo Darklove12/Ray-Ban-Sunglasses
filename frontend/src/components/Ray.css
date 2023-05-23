@@ -42,8 +42,10 @@ img {
 }
 
 .imge {
-  height: 34rem;
-  margin-top: 30rem;
+  height: 26rem;
+  margin-top: 25rem;
+  width: 84.7rem;
+  margin-left: 5.3rem;
 }
 
 .videos {
@@ -59,7 +61,7 @@ img {
   position: absolute;
   font-size: 15px;
   height: 1.8rem;
-  width: 15rem;
+  width: 12rem;
   bottom: -96rem;
   font-weight: bold;
   border-radius: 3rem;
