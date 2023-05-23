@@ -67,27 +67,27 @@ function Footer() {
         <MDBCol  className='auto'>
           <h6 className='text-uppercase'>SHOPPING ONLINE</h6>
           <p>
-            <a href='#!' className='text-reset'>
+            <a href='https://www.ray-ban.com/usa/c/face-shape-guide' className='text-reset'>
             Face Shape Guide
             </a>
           </p>
           <p>
-            <a href='#!' className='text-reset'>
+            <a href='https://www.ray-ban.com/usa/c/size-guide' className='text-reset'>
             Size Guide
             </a>
           </p>
           <p>
-            <a href='#!' className='text-reset'>
+            <a href='https://www.ray-ban.com/usa/c/exclusive-offers' className='text-reset'>
             Special Offers
             </a>
           </p>
           <p>
-            <a href='#!' className='text-reset'>
+            <a href='https://www.ray-ban.com/usa/corporate-sales-gifts' className='text-reset'>
             Corporate Sales
             </a>
           </p>
           <p>
-            <a href='#!' className='text-reset'>
+            <a href='https://www.ray-ban.com/usa/prescription-and-lenses' className='text-reset'>
             Prescription
             </a>
           </p>
@@ -97,33 +97,23 @@ function Footer() {
         <MDBCol className='auto'>
           <h6 className='text-uppercase fw-bold'>HOW CAN WE HELP?</h6>
           <p>
-            <a href='#!' className='text-reset'>
+            <a href='https://www.ray-ban.com/usa/c/support' className='text-reset'>
             Get Support
             </a>
           </p>
           <p>
-            <a href='#!' className='text-reset'>
+            <a href='https://www.ray-ban.com/usa/c/support' className='text-reset'>
             Track Orders
             </a>
           </p>
           <p>
-            <a href='#!' className='text-reset'>
-              Orders
-            </a>
-          </p>
-          <p>
-            <a href='#!' className='text-reset'>
+            <a href='https://www.ray-ban.com/GCBalanceCheckView?pageName=giftcard-balance&urlRequestType=Base&catalogId=22552&langId=-1&storeId=10151' className='text-reset'>
             Gift Card Balance
             </a>
           </p>
           <p>
-            <a href='#!' className='text-reset'>
+            <a href='https://www.ray-ban.com/usa/c/frequently-asked-questions-ray-ban-stories' className='text-reset'>
             Ray-Ban Stories FAQ
-            </a>
-          </p>
-          <p>
-            <a href='#!' className='text-reset'>
-            Contact Us
             </a>
           </p>
         </MDBCol>
